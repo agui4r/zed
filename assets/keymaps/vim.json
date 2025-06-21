@@ -720,7 +720,7 @@
     }
   },
   {
-    "context": "AgentPanel || GitPanel || ProjectPanel || CollabPanel || OutlinePanel || ChatPanel || VimControl || EmptyPane || SharedScreen || MarkdownPreview || KeyContextView || DebugPanel",
+    "context": "AgentPanel || GitPanel || ProjectPanel || OutlinePanel || ChatPanel || VimControl || EmptyPane || SharedScreen || MarkdownPreview || KeyContextView || DebugPanel",
     "bindings": {
       // window related commands (ctrl-w X)
       "ctrl-w": null,
